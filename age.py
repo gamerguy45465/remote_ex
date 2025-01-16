@@ -8,7 +8,7 @@ isTrue = False
 ages = []
 
 while(not isTrue):
-    age = r.randint(15, 30)
+    age = r.randint(0, 100)
     if age in ages:
         continue
     response = input(f"is {age} correct?")
@@ -19,6 +19,6 @@ while(not isTrue):
     elif response == 'n':
         print("Rats.")
         ages.append(age)
-        if len(ages) == 15:
-            print("You must be older than 30 or younger than 15 then")
+        if len(ages) == 100:
+            print("Impossible, you can't be that old")
             isTrue = True 
