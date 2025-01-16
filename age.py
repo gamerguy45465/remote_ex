@@ -5,8 +5,12 @@ name = input("Name Please? ")
 
 isTrue = False
 
+ages = []
+
 while(not isTrue):
     age = r.randint(15, 30)
+    if age in ages:
+        continue
     response = input(f"is {age} correct?")
     if response == 'y':
         print(f"{name} is {age} years old.")
@@ -14,3 +18,7 @@ while(not isTrue):
 
     elif response == 'n':
         print("Rats.")
+        ages.append(age)
+        if len(ages) == 15:
+            print("You must be older than 30 or younger than 15 then")
+            isTrue = True 
