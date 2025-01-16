@@ -21,4 +21,6 @@ while(not isTrue):
         ages.append(age)
         if len(ages) == 100:
             print("Impossible, you can't be that old")
+            age = input("So how old are you then?")
+            print(f"{name} is {age} years old.")
             isTrue = True 
