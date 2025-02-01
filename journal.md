@@ -48,3 +48,8 @@ an efficient interface, where if they ever need these functions, they can just a
 in and then just call these functions. Of course, that's nothing special because they would be able to do that anyway in a python file, but the
 point I am trying to make is this does not hinder on my collegues in any way, and as a result I can legally write all of the code that I am 
 assigned to write in C++ instead of python, since I am more used to C++ than Python.
+
+
+
+Date: 1.31.25 - Subject: Gamma Categories. In an online learning environment (which I am doing on my own time) I just learned about Gamma Categories, named after someone named Erick Gamma and not the greek letter Gamma. Gamma Categories are different categories of design patterns,
+main, of which we may learn about in this class. These categories include Creational Patterns, Structural Patterns, and Behavioral Patterns. Creational Patters have to do with the creating and construction of objects. Structural Patterns are concerned with class members and are also concerned with wrappers that mimic the underlying class interface (they are also what stress the importance of good api design). Finally, Behavioral Patterns are Patterns that don't follow a central theme, and are all different. 
