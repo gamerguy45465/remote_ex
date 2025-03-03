@@ -56,3 +56,6 @@ main, of which we may learn about in this class. These categories include Creati
 
 
 Date: 2.9.25 - Subject: Builder Pattern. I have been studying design patterns on my own time, where I have been learning about the builder patter. The Builder pattern is useful when you want to separate the construction of a component from the representation of the component, in order to have the construction be represented by multiple representations. For example, say I want to build an HTML generator. Instead of generating a bunch of tags and whatnot, I could just make a class along with a bunch of subclasses so that all I would need to do is call the class in order to create the component everytime. That way it is easier and less work to do.
+
+
+Date: 3.2.25 - Subject: Flask. Just been going over flask. Been learning how to work with forms in flask. Learning forms will most likely help in our project, and what I do to learn flask will help me to be more proficient in our project, especially with solving problems and whatnot.
