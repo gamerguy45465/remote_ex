@@ -61,3 +61,5 @@ Date: 2.9.25 - Subject: Builder Pattern. I have been studying design patterns on
 Date: 3.2.25 - Subject: Flask. Just been going over flask. Been learning how to work with forms in flask. Learning forms will most likely help in our project, and what I do to learn flask will help me to be more proficient in our project, especially with solving problems and whatnot.
 
 Date: 3.8.25 - Subject: More Flask. Not much to say here, just learning more flask. The project is coming together very well. So yeah.
+
+Date: 3.23.25 - Subject: More Studying. Studying is getting hard, and I've got a lot to do right now. So much that I have been forgetting to journal. 
