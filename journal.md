@@ -63,3 +63,6 @@ Date: 3.2.25 - Subject: Flask. Just been going over flask. Been learning how to 
 Date: 3.8.25 - Subject: More Flask. Not much to say here, just learning more flask. The project is coming together very well. So yeah.
 
 Date: 3.23.25 - Subject: More Studying. Studying is getting hard, and I've got a lot to do right now. So much that I have been forgetting to journal. 
+
+
+Date: 4.17.25 - Subject: A long time. Look, I've been neglecting this and I understand. But School has been super busy, and I've been really racking my brain. It was probably a mistake to take 15 credits this semester, but I did it in hopes that I could graduate in a year, which I just found out that is not possible, unless I switch to computer science. Time will tell what I will end up doing, but yeah, that's the story for right now.
